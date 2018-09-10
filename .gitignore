@@ -1,0 +1,9 @@
+.DS_Store
+.idea/*
+target/*
+*.asc
+*.csv
+*.iml
+*.pdf
+notes.md
+secret.md
